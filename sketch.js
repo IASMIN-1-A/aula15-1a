@@ -1,6 +1,6 @@
 //configuracao de funcao 
   function setup() {
-  createCanvas(400, 400);
+  createCanvas(900, 800);
   background("pink");
 }
 
